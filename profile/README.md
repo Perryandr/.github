@@ -26,7 +26,7 @@ ___
 ___
 ### Andrew Perry
 
-**I am Andrew**
+**I am an emergency medical technician transitioning to the challenging field of cyber security.**
 
 [![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Perryandr?tab=repositories) [![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/andrew-perry-0998b7263/) 
 ___
