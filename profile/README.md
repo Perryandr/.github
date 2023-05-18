@@ -1,12 +1,35 @@
 ## Hi there 👋
+# Meet the team:
+### Ademola Olatunbosun
 
+**I am Epidemiologist by profession, US Army Vet, transitioned into Cybersecurity.**
+
+
+[![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
+___
+### Joshua Phipps
+
+**I am currently a Georgia National Guard soldier tranistioning into Cybersecurity.** 
+
+[![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) 
+___
+### Nickolaus Alderete
+
+**US Army Veteran, low voltage electrician transitioning into the cybersecurity realm.**
+
+[![Image of Nick A](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/nickolaus-alderete/) 
+___
+### Andrew Perry
+
+**I am Andrew**
+
+[![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Perryandr?tab=repositories) [![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/andrew-perry-0998b7263/) 
+___
+### Justin "Sage" Tabios
+
+**Howzit My name is Justin 'Sage' Tabios.  What I enjoy most about tech is the gaming sector of it.**
 <!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 -->
