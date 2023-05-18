@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Logo](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/Klogo.png)
+![Logo](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/Klogo.png)
 # Meet the team:
 ### Ademola Olatunbosun
 
